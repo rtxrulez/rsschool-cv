@@ -1,0 +1,22 @@
+*:before,
+*:after,
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+.avatar {
+  max-width: 100px;
+}
